@@ -1,0 +1,25 @@
+static float s = 999999;
+static float c = 261.63;
+static float d = 293.66;
+static float e = 329.63;
+static float f = 349.23;
+static float g = 392.00;
+static float a = 440.00;
+static float b = 493.88;
+static float C = 523.25;
+static float D = 587.33;
+static float E = 659.26;
+static float F = 698.46;
+static float G = 783.99;
+static float A = 830.61;
+static float B = 932.33;
+static float K = 1046.5;
+static float Y = 622.25;
+static float Z = 739.99;
+static float y = 880.00;
+static float z = 783.99;
+static float h = 0.5;
+static float H = 1.5;
+
+static float as[] = {246.94, 277.18, d, e, 369.99, 415.31, a, b, f};
+static float cs[] = {d, e, 369.99, g, a, b, C, s};
